@@ -1,0 +1,13 @@
+一、JDK解释
+
+	JDK：开发工具包
+	JRE：数据类库
+	JVM：虚拟机
+	
+二、三者的关系
+	JDK包含JRE，JRE包含JVM
+
+三、运行环境
+	Path：在设定java可以在任何目录下都可以运行bin文件夹下命令时，就将java的bin目录声明到path环境变量中
+	JAVA_HOME：设置可以给其他软件使用JDK，如：elipse、intelliJ IDEA等
+	classpath：如果一个类是在C盘编译，但类实在D盘，这时classpath的设置就可以直接加载到D盘去编译这个类，而不是在C编译

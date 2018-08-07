@@ -1,0 +1,73 @@
+				IDEA基本的简写快捷键
+		
+cxf
+
+fori				for循环i=0;i< 自己写;i++
+
+inst				if判断
+ijws		异常处理，默认处理MyLocator类，和Activator接口，系统帮指定的方法
+ifn				if判断等于null
+ijrws			异常处理，处理MyLocator类，和Activator接口，自己写方法
+inn				if判断不等于null
+itar				for循环，次数为上一个变量的长度，i++
+itaws				异常处理，默认处理MyServiceStub类
+itco		
+iten				while循环
+iter				foreach循环遍历
+itit				while循环，迭代器的循环
+itli				for循环，集合循环大小size(),i++
+ittok		
+itve				for循环，循环大小size(),i++
+iuxws				异常处理，默认处理Client类
+iwws				异常处理
+ixws			创建MyService对象，并调用getPort()..sayHelloWorldFrom()
+
+jaxrs				异常处理
+
+lst
+lazy				if判断等于null，并且条件成立new一个对象
+
+
+mjo				异常处理
+mn				获取Math类的min()方法
+mx				获取Math类的max()方法
+mxb				异常处理
+
+psvm				main(String[] args)方法，控制台程序
+
+ritar				for循环初始值是上一个变量的长度，i>=0,i--	
+
+serr				向后台输出内容，内容是红色的
+soutv				向后台输出上一个变量的
+sout				向后台输出内容
+soutm				向后台输出当前类和所在的方法名
+soutp				向后台输出上一个变量的并一个中括号括起来
+
+
+ujo				异常处理
+uxb				异常处理
+
+变量、数组、对象名打点(注意数据类型不一样，有些简写是不能使用)
+arg			 	把当前变量使用小括号括起来
+cast				把当前变量名使用小括号括起来在当前变量名前面在加一个小括号
+field				把当前变量定义为类的成员并转为私有的
+format				调用字符串格式的方法
+forr				循环i初始值等于变量名;i>0;i--的工作
+inst				三目运算，默认不相等的为null	
+instanceof			三目运算，默认不相等的为null
+larmbda			
+nn				if判断不等于null			
+notnull				if判断不等于null
+null				if判断等于null
+opt				
+par				把当前变量使用小括号括起来
+reqnonnull			判断对象是否为空
+return				把变量值返回
+sout				把变量输出到后台
+switch				进行switch判断
+synchribuzed			
+try				处于异常
+var				给予赋值
+
+
+类名.new 			创建对象
